@@ -3,9 +3,9 @@ title: Adobe Experience Manager as a Cloud Service - översikt
 description: Få en snabb översikt över de senaste funktionerna i Adobe Experience Manager as a Cloud Service
 user-guide-breadcrumb: AEM Release Events
 exl-id: bca8675b-4245-4165-b736-652a4d504f50
-source-git-commit: 4076daa66fe9653c3d29de2ef3cf187664eae962
+source-git-commit: 10576f89df0286473b010138cd669cfeb17c30ba
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -15,6 +15,28 @@ ht-degree: 0%
 Få en snabb översikt över de senaste funktionerna i Adobe Experience Manager as a Cloud Service. Det här är korta, ungefär 10 minuter långa videor från AEM produktgrupp som delar med sig av de senaste releasernas högdagrar.
 
 ## Senaste uppdatering
+
+<table style="max-width: 50%;">
+<tr>
+  <td>
+    <a href="./2022/2022-5-0.md">
+      <img alt="2022.4.0-utgåvan" src="./2022/assets/2022-5-0-thumb.png" />
+    </a>
+    <div>
+      <a href="./2022/2022-5-0.md">
+        <strong>Frigör | 2022.5.0</strong>
+        <br/>
+      </a>
+        <em>Releasedatum 9 juni 2022 </em>
+    </div>
+    <p>
+      <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Versionsinformation</a>
+    <p>
+  </td>
+</tr>  
+</table>
+
+## Senaste uppdateringar
 
 <table style="max-width: 50%;">
 <tr>
@@ -33,13 +55,6 @@ Få en snabb översikt över de senaste funktionerna i Adobe Experience Manager 
       <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Versionsinformation</a>
     <p>
   </td>
-</tr>  
-</table>
-
-## Senaste uppdateringar
-
-<table style="max-width: 50%;">
-<tr>
   <td>
     <a href="./2022/2022-3-0.md">
       <img alt="2022.3.0-utgåvan" src="./2022/assets/2022-3-0.png" />
@@ -55,8 +70,6 @@ Få en snabb översikt över de senaste funktionerna i Adobe Experience Manager 
       <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Versionsinformation</a>
     <p>
   </td>
-</tr> 
-<tr>
   <td>
     <a href="./2022/2022-1-0.md">
       <img alt="2022-1-0-utgåvan" src="./2022/assets/2022-1-0.png" />
@@ -72,6 +85,8 @@ Få en snabb översikt över de senaste funktionerna i Adobe Experience Manager 
       <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/2022/release-notes-2022-1-0.html">Versionsinformation</a>
     <p>
   </td>
+  </tr>
+  <tr>
   <td>
     <a href="./2021/2021-11-0.md">
       <img alt="2021.11.0 AEMCS-utgåvan" src="./2021/assets/2021-11-0.png" />
