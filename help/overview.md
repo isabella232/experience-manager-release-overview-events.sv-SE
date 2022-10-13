@@ -3,7 +3,7 @@ title: Adobe Experience Manager as a Cloud Service - översikt
 description: Få en snabb översikt över de senaste funktionerna i Adobe Experience Manager as a Cloud Service
 user-guide-breadcrumb: AEM Release Events
 exl-id: bca8675b-4245-4165-b736-652a4d504f50
-source-git-commit: 8dde75778f146a1e41330404143427137bd15c6e
+source-git-commit: 09eff0698bf3d1bc34c1306911f2b63a297634f3
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 0%
@@ -159,12 +159,12 @@ Få en snabb översikt över de senaste funktionerna i Adobe Experience Manager 
 <table style="max-width: 50%;">
   <tr>
     <td>
-      <a href="./2022/2022-9-0.md">
-        <img alt="2022.9.0 Release" src="./2022/assets/2022-9-0-thumb.png" />
+      <a href="./2022/2022-10-0.md">
+        <img alt="2022.10.0 Release" src="./2022/assets/2022-10-0-thumb.png" />
       </a>
       <div>
-        <a href="./2022/2022-9-0.md">
-          <strong>Release | 2022.9.0</strong>
+        <a href="./2022/2022-10-0.md">
+          <strong>Release | 2022.10.0</strong>
           <br/>
         </a>
           <em>Release date  Oct 13, 2022 </em>

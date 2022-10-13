@@ -3,7 +3,7 @@ user-guide-title: Adobe Experience Manager as a Cloud Service - översikt
 user-guide-breadcrumb: AEMCS Release Events
 user-guide-description: Få en snabb översikt över de senaste funktionerna i Adobe Experience Manager as a Cloud Service
 breadcrumb-title: AEM CS-versionsuppdateringar
-source-git-commit: 8dde75778f146a1e41330404143427137bd15c6e
+source-git-commit: 09eff0698bf3d1bc34c1306911f2b63a297634f3
 workflow-type: tm+mt
 source-wordcount: '57'
 ht-degree: 33%
@@ -15,7 +15,7 @@ ht-degree: 33%
 
 + [Översikt](overview.md)
 + 2022 {#2022}
-   + [2022.9.0](./2022/2022-9-0.md)
+   + [2022.10.0](./2022/2022-10-0.md)
    + [2022.8.0](./2022/2022-8-0.md)
    + [2022.7.0](./2022/2022-7-0.md)
    + [2022.6.0](./2022/2022-6-0.md)
